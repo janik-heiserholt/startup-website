@@ -1,0 +1,15 @@
+@import "banner.css";
+@import "buttons.css";
+@import "cards.css";
+@import "bottom.css";
+
+a {
+  text-decoration: none;
+}
+body {
+  margin: 0;
+}
+.container {
+  width: 90%;
+  margin: 24px auto;
+}
